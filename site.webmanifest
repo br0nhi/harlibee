@@ -1,0 +1,13 @@
+{
+  "name": "Harlibee – islamska edukacija",
+  "short_name": "Harlibee",
+  "lang": "bs",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#120A1F",
+  "theme_color": "#120A1F",
+  "icons": [
+    { "src": "favicon.svg", "sizes": "any", "type": "image/svg+xml" },
+    { "src": "assets/img/apple-touch-icon.png", "sizes": "180x180", "type": "image/png" }
+  ]
+}

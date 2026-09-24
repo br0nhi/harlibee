@@ -1,0 +1,606 @@
+{
+  "naslov": "99 Allahovih lijepih imena",
+  "napomena": "Popis slijedi predaju koju bilježi Tirmizi (hadis br. 3507). Učenjaci se razilaze o tome da li je sam popis dio hadisa, a Allahova imena nisu ograničena na ovaj broj. Prijevodi su približni i služe za učenje.",
+  "izvori": [
+    "Kur'an, El-A'raf, 180",
+    "Buhari, br. 2736 i 7392",
+    "Muslim, br. 2677",
+    "Tirmizi, br. 3507"
+  ],
+  "imena": [
+    {
+      "broj": 1,
+      "arapski": "الرحمن",
+      "transliteracija": "Er-Rahman",
+      "znacenje": "Milostivi – Onaj čija milost obuhvata sva stvorenja"
+    },
+    {
+      "broj": 2,
+      "arapski": "الرحيم",
+      "transliteracija": "Er-Rahim",
+      "znacenje": "Samilosni – Onaj koji je posebno milostiv prema vjernicima"
+    },
+    {
+      "broj": 3,
+      "arapski": "الملك",
+      "transliteracija": "El-Melik",
+      "znacenje": "Vladar – istinski Vlasnik svega"
+    },
+    {
+      "broj": 4,
+      "arapski": "القدوس",
+      "transliteracija": "El-Kuddus",
+      "znacenje": "Sveti – čist od svake manjkavosti"
+    },
+    {
+      "broj": 5,
+      "arapski": "السلام",
+      "transliteracija": "Es-Selam",
+      "znacenje": "Onaj koji je siguran od svake mahane i Izvor mira"
+    },
+    {
+      "broj": 6,
+      "arapski": "المؤمن",
+      "transliteracija": "El-Mu'min",
+      "znacenje": "Onaj koji daje sigurnost i potvrđuje istinu"
+    },
+    {
+      "broj": 7,
+      "arapski": "المهيمن",
+      "transliteracija": "El-Muhejmin",
+      "znacenje": "Onaj koji nad svime bdije i čuva"
+    },
+    {
+      "broj": 8,
+      "arapski": "العزيز",
+      "transliteracija": "El-Aziz",
+      "znacenje": "Silni – Onaj koji je nepobjediv"
+    },
+    {
+      "broj": 9,
+      "arapski": "الجبار",
+      "transliteracija": "El-Džebbar",
+      "znacenje": "Onaj koji sve popravlja i čijoj se volji sve pokorava"
+    },
+    {
+      "broj": 10,
+      "arapski": "المتكبر",
+      "transliteracija": "El-Mutekebbir",
+      "znacenje": "Onaj kome jedinom pripada veličina"
+    },
+    {
+      "broj": 11,
+      "arapski": "الخالق",
+      "transliteracija": "El-Halik",
+      "znacenje": "Stvoritelj – Onaj koji sve određuje i stvara"
+    },
+    {
+      "broj": 12,
+      "arapski": "البارئ",
+      "transliteracija": "El-Bari'",
+      "znacenje": "Onaj koji stvara iz ničega, bez mane i nesklada"
+    },
+    {
+      "broj": 13,
+      "arapski": "المصور",
+      "transliteracija": "El-Musavvir",
+      "znacenje": "Onaj koji svemu daje oblik"
+    },
+    {
+      "broj": 14,
+      "arapski": "الغفار",
+      "transliteracija": "El-Gaffar",
+      "znacenje": "Onaj koji mnogo i ponovo prašta"
+    },
+    {
+      "broj": 15,
+      "arapski": "القهار",
+      "transliteracija": "El-Kahhar",
+      "znacenje": "Onaj koji sve savladava"
+    },
+    {
+      "broj": 16,
+      "arapski": "الوهاب",
+      "transliteracija": "El-Vehhab",
+      "znacenje": "Darovatelj – Onaj koji daruje bez zauzvrat"
+    },
+    {
+      "broj": 17,
+      "arapski": "الرزاق",
+      "transliteracija": "Er-Rezzak",
+      "znacenje": "Opskrbitelj svih stvorenja"
+    },
+    {
+      "broj": 18,
+      "arapski": "الفتاح",
+      "transliteracija": "El-Fettah",
+      "znacenje": "Onaj koji otvara vrata dobra i presuđuje po istini"
+    },
+    {
+      "broj": 19,
+      "arapski": "العليم",
+      "transliteracija": "El-Alim",
+      "znacenje": "Sveznajući"
+    },
+    {
+      "broj": 20,
+      "arapski": "القابض",
+      "transliteracija": "El-Kabid",
+      "znacenje": "Onaj koji steže i uskraćuje (po Svojoj mudrosti)"
+    },
+    {
+      "broj": 21,
+      "arapski": "الباسط",
+      "transliteracija": "El-Basit",
+      "znacenje": "Onaj koji pruža i daje u izobilju"
+    },
+    {
+      "broj": 22,
+      "arapski": "الخافض",
+      "transliteracija": "El-Hafid",
+      "znacenje": "Onaj koji spušta"
+    },
+    {
+      "broj": 23,
+      "arapski": "الرافع",
+      "transliteracija": "Er-Rafi'",
+      "znacenje": "Onaj koji uzdiže"
+    },
+    {
+      "broj": 24,
+      "arapski": "المعز",
+      "transliteracija": "El-Mu'izz",
+      "znacenje": "Onaj koji daje čast i snagu"
+    },
+    {
+      "broj": 25,
+      "arapski": "المذل",
+      "transliteracija": "El-Muzill",
+      "znacenje": "Onaj koji oduzima čast"
+    },
+    {
+      "broj": 26,
+      "arapski": "السميع",
+      "transliteracija": "Es-Semi'",
+      "znacenje": "Onaj koji sve čuje"
+    },
+    {
+      "broj": 27,
+      "arapski": "البصير",
+      "transliteracija": "El-Basir",
+      "znacenje": "Onaj koji sve vidi"
+    },
+    {
+      "broj": 28,
+      "arapski": "الحكم",
+      "transliteracija": "El-Hakem",
+      "znacenje": "Sudija – Onaj čija je presuda konačna"
+    },
+    {
+      "broj": 29,
+      "arapski": "العدل",
+      "transliteracija": "El-Adl",
+      "znacenje": "Pravedni"
+    },
+    {
+      "broj": 30,
+      "arapski": "اللطيف",
+      "transliteracija": "El-Latif",
+      "znacenje": "Blagi – Onaj koji zna i najskrivenije stvari"
+    },
+    {
+      "broj": 31,
+      "arapski": "الخبير",
+      "transliteracija": "El-Habir",
+      "znacenje": "Onaj koji je o svemu obaviješten"
+    },
+    {
+      "broj": 32,
+      "arapski": "الحليم",
+      "transliteracija": "El-Halim",
+      "znacenje": "Blagi – Onaj koji ne žuri s kaznom"
+    },
+    {
+      "broj": 33,
+      "arapski": "العظيم",
+      "transliteracija": "El-Azim",
+      "znacenje": "Veličanstveni"
+    },
+    {
+      "broj": 34,
+      "arapski": "الغفور",
+      "transliteracija": "El-Gafur",
+      "znacenje": "Onaj koji oprašta grijehe"
+    },
+    {
+      "broj": 35,
+      "arapski": "الشكور",
+      "transliteracija": "Eš-Šekur",
+      "znacenje": "Onaj koji i malo djelo obilno nagrađuje"
+    },
+    {
+      "broj": 36,
+      "arapski": "العلي",
+      "transliteracija": "El-Alijj",
+      "znacenje": "Uzvišeni"
+    },
+    {
+      "broj": 37,
+      "arapski": "الكبير",
+      "transliteracija": "El-Kebir",
+      "znacenje": "Veliki"
+    },
+    {
+      "broj": 38,
+      "arapski": "الحفيظ",
+      "transliteracija": "El-Hafiz",
+      "znacenje": "Čuvar"
+    },
+    {
+      "broj": 39,
+      "arapski": "المقيت",
+      "transliteracija": "El-Mukit",
+      "znacenje": "Onaj koji daje hranu i snagu svemu"
+    },
+    {
+      "broj": 40,
+      "arapski": "الحسيب",
+      "transliteracija": "El-Hasib",
+      "znacenje": "Onaj koji je dovoljan i koji svemu svodi račun"
+    },
+    {
+      "broj": 41,
+      "arapski": "الجليل",
+      "transliteracija": "El-Dželil",
+      "znacenje": "Onaj koji je savršen u Svojoj uzvišenosti"
+    },
+    {
+      "broj": 42,
+      "arapski": "الكريم",
+      "transliteracija": "El-Kerim",
+      "znacenje": "Plemeniti i Darežljivi"
+    },
+    {
+      "broj": 43,
+      "arapski": "الرقيب",
+      "transliteracija": "Er-Rekib",
+      "znacenje": "Onaj koji nadzire"
+    },
+    {
+      "broj": 44,
+      "arapski": "المجيب",
+      "transliteracija": "El-Mudžib",
+      "znacenje": "Onaj koji se odaziva dovama"
+    },
+    {
+      "broj": 45,
+      "arapski": "الواسع",
+      "transliteracija": "El-Vasi'",
+      "znacenje": "Onaj koji sve obuhvata"
+    },
+    {
+      "broj": 46,
+      "arapski": "الحكيم",
+      "transliteracija": "El-Hakim",
+      "znacenje": "Mudri"
+    },
+    {
+      "broj": 47,
+      "arapski": "الودود",
+      "transliteracija": "El-Vedud",
+      "znacenje": "Onaj koji voli i koji je voljen"
+    },
+    {
+      "broj": 48,
+      "arapski": "المجيد",
+      "transliteracija": "El-Medžid",
+      "znacenje": "Slavni i Plemeniti"
+    },
+    {
+      "broj": 49,
+      "arapski": "الباعث",
+      "transliteracija": "El-Ba'is",
+      "znacenje": "Onaj koji proživljava"
+    },
+    {
+      "broj": 50,
+      "arapski": "الشهيد",
+      "transliteracija": "Eš-Šehid",
+      "znacenje": "Svjedok svega"
+    },
+    {
+      "broj": 51,
+      "arapski": "الحق",
+      "transliteracija": "El-Hakk",
+      "znacenje": "Istina – Onaj čije je postojanje nesumnjivo"
+    },
+    {
+      "broj": 52,
+      "arapski": "الوكيل",
+      "transliteracija": "El-Vekil",
+      "znacenje": "Onaj na koga se čovjek oslanja"
+    },
+    {
+      "broj": 53,
+      "arapski": "القوي",
+      "transliteracija": "El-Kavijj",
+      "znacenje": "Snažni"
+    },
+    {
+      "broj": 54,
+      "arapski": "المتين",
+      "transliteracija": "El-Metin",
+      "znacenje": "Čvrsti – Onaj čija snaga ne slabi"
+    },
+    {
+      "broj": 55,
+      "arapski": "الولي",
+      "transliteracija": "El-Velijj",
+      "znacenje": "Zaštitnik i Prijatelj vjernika"
+    },
+    {
+      "broj": 56,
+      "arapski": "الحميد",
+      "transliteracija": "El-Hamid",
+      "znacenje": "Hvaljeni"
+    },
+    {
+      "broj": 57,
+      "arapski": "المحصي",
+      "transliteracija": "El-Muhsi",
+      "znacenje": "Onaj koji sve zna na broj"
+    },
+    {
+      "broj": 58,
+      "arapski": "المبدئ",
+      "transliteracija": "El-Mubdi'",
+      "znacenje": "Onaj koji prvi put stvara"
+    },
+    {
+      "broj": 59,
+      "arapski": "المعيد",
+      "transliteracija": "El-Mu'id",
+      "znacenje": "Onaj koji ponovo vraća u život"
+    },
+    {
+      "broj": 60,
+      "arapski": "المحيي",
+      "transliteracija": "El-Muhji",
+      "znacenje": "Onaj koji daje život"
+    },
+    {
+      "broj": 61,
+      "arapski": "المميت",
+      "transliteracija": "El-Mumit",
+      "znacenje": "Onaj koji daje smrt"
+    },
+    {
+      "broj": 62,
+      "arapski": "الحي",
+      "transliteracija": "El-Hajj",
+      "znacenje": "Živi"
+    },
+    {
+      "broj": 63,
+      "arapski": "القيوم",
+      "transliteracija": "El-Kajjum",
+      "znacenje": "Onaj koji samostalno postoji i sve održava"
+    },
+    {
+      "broj": 64,
+      "arapski": "الواجد",
+      "transliteracija": "El-Vadžid",
+      "znacenje": "Onaj koji sve ima i kome ništa ne nedostaje"
+    },
+    {
+      "broj": 65,
+      "arapski": "الماجد",
+      "transliteracija": "El-Madžid",
+      "znacenje": "Slavni"
+    },
+    {
+      "broj": 66,
+      "arapski": "الواحد",
+      "transliteracija": "El-Vahid",
+      "znacenje": "Jedini"
+    },
+    {
+      "broj": 67,
+      "arapski": "الأحد",
+      "transliteracija": "El-Ehad",
+      "znacenje": "Jedan – Onaj koji nema sličnog"
+    },
+    {
+      "broj": 68,
+      "arapski": "الصمد",
+      "transliteracija": "Es-Samed",
+      "znacenje": "Onaj kome se sve obraća za potrebe"
+    },
+    {
+      "broj": 69,
+      "arapski": "القادر",
+      "transliteracija": "El-Kadir",
+      "znacenje": "Moćni"
+    },
+    {
+      "broj": 70,
+      "arapski": "المقتدر",
+      "transliteracija": "El-Muktedir",
+      "znacenje": "Svemoćni – Onaj čijoj moći nema granice"
+    },
+    {
+      "broj": 71,
+      "arapski": "المقدم",
+      "transliteracija": "El-Mukaddim",
+      "znacenje": "Onaj koji primiče i daje prednost"
+    },
+    {
+      "broj": 72,
+      "arapski": "المؤخر",
+      "transliteracija": "El-Muahhir",
+      "znacenje": "Onaj koji odmiče i odgađa"
+    },
+    {
+      "broj": 73,
+      "arapski": "الأول",
+      "transliteracija": "El-Evvel",
+      "znacenje": "Prvi – Onaj koji nema početka"
+    },
+    {
+      "broj": 74,
+      "arapski": "الآخر",
+      "transliteracija": "El-Ahir",
+      "znacenje": "Posljednji – Onaj koji nema kraja"
+    },
+    {
+      "broj": 75,
+      "arapski": "الظاهر",
+      "transliteracija": "Ez-Zahir",
+      "znacenje": "Očiti – Onaj iznad koga nema ničega"
+    },
+    {
+      "broj": 76,
+      "arapski": "الباطن",
+      "transliteracija": "El-Batin",
+      "znacenje": "Skriveni – Onaj ispod koga nema ničega"
+    },
+    {
+      "broj": 77,
+      "arapski": "الوالي",
+      "transliteracija": "El-Vali",
+      "znacenje": "Upravitelj svega"
+    },
+    {
+      "broj": 78,
+      "arapski": "المتعالي",
+      "transliteracija": "El-Mute'ali",
+      "znacenje": "Svevišnji"
+    },
+    {
+      "broj": 79,
+      "arapski": "البر",
+      "transliteracija": "El-Berr",
+      "znacenje": "Dobročinitelj"
+    },
+    {
+      "broj": 80,
+      "arapski": "التواب",
+      "transliteracija": "Et-Tevvab",
+      "znacenje": "Onaj koji prima pokajanje"
+    },
+    {
+      "broj": 81,
+      "arapski": "المنتقم",
+      "transliteracija": "El-Muntekim",
+      "znacenje": "Onaj koji kažnjava zaslužne"
+    },
+    {
+      "broj": 82,
+      "arapski": "العفو",
+      "transliteracija": "El-Afuvv",
+      "znacenje": "Onaj koji briše grijehe"
+    },
+    {
+      "broj": 83,
+      "arapski": "الرءوف",
+      "transliteracija": "Er-Rauf",
+      "znacenje": "Blagi i Samilosni"
+    },
+    {
+      "broj": 84,
+      "arapski": "مالك الملك",
+      "transliteracija": "Maliku-l-mulk",
+      "znacenje": "Vlasnik svekolike vlasti"
+    },
+    {
+      "broj": 85,
+      "arapski": "ذو الجلال والإكرام",
+      "transliteracija": "Zu-l-dželali ve-l-ikram",
+      "znacenje": "Posjednik veličanstva i plemenitosti"
+    },
+    {
+      "broj": 86,
+      "arapski": "المقسط",
+      "transliteracija": "El-Muksit",
+      "znacenje": "Pravični"
+    },
+    {
+      "broj": 87,
+      "arapski": "الجامع",
+      "transliteracija": "El-Džami'",
+      "znacenje": "Onaj koji sakuplja"
+    },
+    {
+      "broj": 88,
+      "arapski": "الغني",
+      "transliteracija": "El-Ganijj",
+      "znacenje": "Neovisni i Bogati"
+    },
+    {
+      "broj": 89,
+      "arapski": "المغني",
+      "transliteracija": "El-Mugni",
+      "znacenje": "Onaj koji daje neovisnost i bogatstvo"
+    },
+    {
+      "broj": 90,
+      "arapski": "المانع",
+      "transliteracija": "El-Mani'",
+      "znacenje": "Onaj koji sprječava i štiti"
+    },
+    {
+      "broj": 91,
+      "arapski": "الضار",
+      "transliteracija": "Ed-Darr",
+      "znacenje": "Onaj koji po Svojoj mudrosti dopušta nedaću"
+    },
+    {
+      "broj": 92,
+      "arapski": "النافع",
+      "transliteracija": "En-Nafi'",
+      "znacenje": "Onaj koji daje korist"
+    },
+    {
+      "broj": 93,
+      "arapski": "النور",
+      "transliteracija": "En-Nur",
+      "znacenje": "Svjetlo"
+    },
+    {
+      "broj": 94,
+      "arapski": "الهادي",
+      "transliteracija": "El-Hadi",
+      "znacenje": "Onaj koji upućuje na pravi put"
+    },
+    {
+      "broj": 95,
+      "arapski": "البديع",
+      "transliteracija": "El-Bedi'",
+      "znacenje": "Onaj koji stvara bez uzora"
+    },
+    {
+      "broj": 96,
+      "arapski": "الباقي",
+      "transliteracija": "El-Baki",
+      "znacenje": "Vječni – Onaj koji ostaje"
+    },
+    {
+      "broj": 97,
+      "arapski": "الوارث",
+      "transliteracija": "El-Varis",
+      "znacenje": "Onaj koji sve nasljeđuje"
+    },
+    {
+      "broj": 98,
+      "arapski": "الرشيد",
+      "transliteracija": "Er-Rešid",
+      "znacenje": "Onaj koji upućuje na ispravno"
+    },
+    {
+      "broj": 99,
+      "arapski": "الصبور",
+      "transliteracija": "Es-Sabur",
+      "znacenje": "Strpljivi"
+    }
+  ]
+}
