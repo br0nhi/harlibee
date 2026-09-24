@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /clanci/sablon-clanka.html
+
+Sitemap: https://br0nhi.github.io/harlibee/sitemap.xml
