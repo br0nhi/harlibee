@@ -182,7 +182,7 @@ a:hover { text-decoration-thickness: .16em; }
 
 .brand { display: inline-flex; align-items: center; gap: .75rem; text-decoration: none; color: var(--text); }
 .brand:hover { text-decoration: none; }
-.brand img { width: 44px; height: 44px; }
+.brand img { width: 56px; height: 56px; filter: drop-shadow(0 0 10px rgba(255, 200, 61, .25)); }
 .brand-name { font: 700 1.45rem/1 var(--font-head); color: var(--gold); letter-spacing: .01em; }
 .brand-tag { display: block; font: 600 .8rem/1.2 var(--font-body); color: var(--text-soft); letter-spacing: .08em; text-transform: uppercase; margin-top: .25rem; }
 
@@ -533,7 +533,7 @@ input:focus-visible, select:focus-visible { border-color: var(--gold); }
 .about-grid { display: grid; grid-template-columns: 1fr 1.3fr; gap: clamp(2rem, 6vw, 5rem); align-items: start; }
 @media (max-width: 860px) { .about-grid { grid-template-columns: 1fr; } }
 .about-portrait { position: sticky; top: 7rem; padding: 2rem; border-radius: var(--radius-lg); background: var(--pattern), var(--surface); border: 1px solid var(--gold); text-align: center; }
-.about-portrait img { width: 160px; height: 160px; margin: 0 auto 1.2rem; }
+.about-portrait img { width: min(240px, 100%); height: auto; margin: 0 auto 1.2rem; filter: drop-shadow(0 12px 28px rgba(0, 0, 0, .5)); }
 @media (max-width: 860px) { .about-portrait { position: static; } }
 .values { list-style: none; padding: 0; margin: 0; display: grid; gap: 1rem; }
 .values li { display: flex; gap: 1rem; padding: 1.2rem 1.4rem; border-radius: var(--radius); background: var(--surface); border: 1px solid var(--line); }
@@ -554,6 +554,9 @@ input:focus-visible, select:focus-visible { border-color: var(--gold); }
 .footer-grid { display: grid; grid-template-columns: 1.4fr repeat(3, 1fr); gap: 2.5rem; }
 @media (max-width: 860px) { .footer-grid { grid-template-columns: 1fr 1fr; } .footer-grid > :first-child { grid-column: 1 / -1; } }
 @media (max-width: 480px) { .footer-grid { grid-template-columns: 1fr; } }
+.footer-logo { display: inline-block; border-radius: 12px; }
+.footer-logo img { width: 160px; height: auto; }
+.site-footer .footer-logo + p { margin-top: 1rem; }
 .site-footer h2 { font-size: 1.05rem; font-family: var(--font-body); letter-spacing: .1em; text-transform: uppercase; color: var(--gold); margin-bottom: 1rem; }
 .site-footer ul { list-style: none; margin: 0; padding: 0; display: grid; gap: .5rem; }
 .site-footer a { color: var(--text); }
