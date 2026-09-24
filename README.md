@@ -111,6 +111,22 @@ Prijave pregledate u Formspree panelu. Tamo po želji uključite i double opt-in
 
 Zaglavlje i podnožje su isti na svim stranicama. Ako mijenjate meni, izmijenite ga u svakom HTML fajlu.
 
+## Logo i ikonice
+
+Originalni logo kanala nalazi se u `scripts/izvor/harlibee-logo.webp` i ne objavljuje se. Iz njega nastaju:
+
+- `assets/img/logo.webp` / `logo.png` – puni logo (podnožje, „O kanalu”, Open Graph slike),
+- `assets/img/logo-mark.webp` – pčelica na polumjesecu bez natpisa, za zaglavlje (u malim veličinama natpis nije čitljiv),
+- `favicon-32.png`, `favicon-192.png`, `favicon-512.png`, `apple-touch-icon.png` – ikonice za preglednik i mobitel.
+
+Ako promijenite logo, zamijenite izvorni fajl (prozirna pozadina, oko 1250×1250 px) i pokrenite:
+
+```bash
+node scripts/make-og.mjs --icons
+```
+
+Zatim ponovo napravite Open Graph slike (komande su u odjeljku „Kako dodati novi članak”). Ako novi logo ima drugačiji raspored, u skripti prilagodite koordinate izreza.
+
 ## 99 imena – podaci
 
 `data/imena.json` sadrži `broj`, `arapski`, `transliteracija` i `znacenje` za svako ime. Popis slijedi predaju koju bilježi Tirmizi (br. 3507). Prijevodi su približni i napisani za učenje, pa ih prije objave neka pregleda neko ko je stručan.
@@ -120,13 +136,13 @@ Napredak (naučena imena i rezultati kviza) čuva se samo u pregledniku posjetio
 ## Struktura
 
 ```
-├── index.html, 404.html, sitemap.xml, robots.txt, site.webmanifest, favicon.svg
+├── index.html, 404.html, sitemap.xml, robots.txt, site.webmanifest
 ├── clanci/            lista, članci, šablon
 ├── 99-imena/          kartice, kviz, napredak
 ├── o-kanalu/
 ├── newsletter/
 ├── data/              imena.json, videos.json
 ├── assets/css|js|img|fonts
-├── scripts/           update_videos.py, set_domain.py, make-og.mjs
+├── scripts/           update_videos.py, set_domain.py, make-og.mjs, izvor/ (originalni logo)
 └── .github/workflows/pages.yml
 ```
