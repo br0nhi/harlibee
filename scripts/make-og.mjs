@@ -43,7 +43,7 @@ function ogHtml(title, subtitle, arabic) {
   .kicker{font:700 22px "Source Sans 3","SourceExt";letter-spacing:.16em;text-transform:uppercase;color:#F7F3FF}
   .kicker b{color:#FFC83D}
   .ar{font:700 44px/1.5 "Amiri",serif;color:#FFC83D;direction:rtl;text-align:left;margin-bottom:6px}
-  h1{font:700 ${title.length > 55 ? 50 : 62}px/1.15 "Lora","LoraExt",serif;color:#FFC83D}
+  h1{font:700 ${title.length > 55 ? 50 : 62}px/1.15 "Lora","LoraExt","Amiri",serif;color:#FFC83D}
   p{font:600 29px/1.35 "Source Sans 3","SourceExt";color:#F7F3FF;margin-top:20px}
   .bar{width:120px;height:8px;border-radius:8px;background:#FF7A1A;margin-bottom:26px}
   .url{font:700 24px "Source Sans 3","SourceExt";color:#F7F3FF;letter-spacing:.04em}
