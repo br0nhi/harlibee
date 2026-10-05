@@ -516,7 +516,7 @@ input:focus-visible, select:focus-visible { border-color: var(--gold); }
 .product-body > p:not(.meta):not(.product-sub) { margin: 0; }
 .product-buy { display: flex; flex-wrap: wrap; align-items: center; gap: .8rem 1.4rem; margin: .6rem 0 .2rem; }
 .product-body .product-buy { margin-top: auto; padding-top: .6rem; }
-.product-price { margin: 0; font: 700 1.9rem/1 var(--font-head); color: var(--gold); }
+.product-price, .card .product-price { margin: 0; font: 700 1.9rem/1 var(--font-head); color: var(--gold); }
 .product-detail + .product-detail { border-top: 1px solid var(--line); }
 .product-grid { display: grid; grid-template-columns: 1fr 1.1fr; gap: clamp(2rem, 5vw, 4rem); align-items: start; }
 .product-gallery { display: grid; gap: 1rem; position: sticky; top: 6.5rem; }
