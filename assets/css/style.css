@@ -506,6 +506,30 @@ input:focus-visible, select:focus-visible { border-color: var(--gold); }
 .stat b { display: block; font: 700 1.6rem var(--font-head); color: var(--gold); }
 .stat span { font-size: .98rem; font-weight: 600; color: var(--text-soft); }
 
+/* ---------- Digitalni proizvodi ---------- */
+.product-card { padding: 0; overflow: hidden; }
+.product-cover { width: 100%; height: auto; aspect-ratio: 4 / 3; object-fit: contain; background: var(--surface-2); border-bottom: 1px solid var(--line); }
+.product-body { padding: 1.4rem 1.6rem 1.7rem; display: flex; flex-direction: column; gap: .6rem; flex: 1; }
+.product-body h3 { margin: 0; }
+.product-body .meta, .product-info .meta { margin: 0; }
+.product-sub { margin: 0; font-weight: 600; color: var(--text); }
+.product-body > p:not(.meta):not(.product-sub) { margin: 0; }
+.product-buy { display: flex; flex-wrap: wrap; align-items: center; gap: .8rem 1.4rem; margin: .6rem 0 .2rem; }
+.product-body .product-buy { margin-top: auto; padding-top: .6rem; }
+.product-price { margin: 0; font: 700 1.9rem/1 var(--font-head); color: var(--gold); }
+.product-detail + .product-detail { border-top: 1px solid var(--line); }
+.product-grid { display: grid; grid-template-columns: 1fr 1.1fr; gap: clamp(2rem, 5vw, 4rem); align-items: start; }
+.product-gallery { display: grid; gap: 1rem; position: sticky; top: 6.5rem; }
+.product-gallery img { width: 100%; height: auto; border-radius: var(--radius-lg); border: 1px solid var(--line); background: var(--surface-2); }
+.product-info h2 { margin: .8rem 0 .3rem; }
+.product-info .product-buy { margin: 1.4rem 0 1.6rem; }
+.product-prose { font-size: 1.1rem; }
+.product-prose h3 { margin-top: 1.6em; font-size: 1.25rem; }
+@media (max-width: 860px) {
+  .product-grid { grid-template-columns: 1fr; }
+  .product-gallery { position: static; }
+}
+
 /* ---------- Newsletter ---------- */
 .newsletter {
   padding: clamp(2rem, 5vw, 3.5rem); border-radius: var(--radius-lg);
