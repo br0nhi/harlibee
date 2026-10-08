@@ -212,6 +212,10 @@
         .then(function (res) {
           if (res.ok) {
             form.reset();
+            // Bilježi uspješnu prijavu kao događaj u GoatCounteru (bez ličnih podataka).
+            if (window.goatcounter && window.goatcounter.count) {
+              window.goatcounter.count({ path: "newsletter-prijava", title: "Prijava na newsletter", event: true });
+            }
             show("Hvala! Prijava je primljena. Provjerite e-poštu – ako stigne poruka za potvrdu, kliknite na link u njoj.", true);
           } else {
             var msg = (res.data && res.data.errors && res.data.errors.map(function (x) { return x.message; }).join(" ")) || "";
